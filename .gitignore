@@ -1,0 +1,38 @@
+# Rust / Cargo build artifacts
+target/
+
+# Executables (if they end up outside target/ for some reason)
+*.exe
+*.dll
+*.so
+*.dylib
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IDE / Editor specific files
+.idea/
+.vscode/
+*.rlib
+*.rmeta
+*.pdb # Windows debug symbols
+*.sublime-project
+*.sublime-workspace
+
+# Log files (if you create any explicitly, beyond stdout/stderr)
+*.log
+log/
+logs/
+
+# Environment files (if you use .env for configuration)
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
