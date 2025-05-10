@@ -18,7 +18,7 @@ A simple "Hello, World!" HTTP server written in Rust using the Axum framework, c
 
 The application is currently hosted on a Virtual Private Server (VPS) and is accessible at:
 
-➡️ **[https://rust.skatebit.app](https://rust.skatebit.app)** (Assuming this is the subdomain you used)
+➡️ **[https://rust.skatebit.app](https://rust.skatebit.app)**
 
 ### Endpoints (Live)
 
